@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahima1621
-- 👀 I’m interested in Web development and ux/ui design
-- 🌱 I’m currently learning web development and cross platform application.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning web development.
 
 
 <!---
