@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahima1621
+- 👋 Hi, I’m Mahima
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning web development.
 
